@@ -1,3 +1,9 @@
+Name:Akash Dhokchaule
+Roll no:40
+Problem Defination:Counting total Number of zeros(0) in an array
+
+
+
 #include<iostream>
 using namespace std;
 int main()
